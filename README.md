@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${alantrivandrum}.${alantrivandrum})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${alantrivandrum}.${My_Java_Projects})
 <!--
 **Alantrivandrum/Alantrivandrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
