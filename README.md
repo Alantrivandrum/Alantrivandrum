@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img align="center" src="https://github.com/Alantrivandrum/Alantrivandrum/blob/main/waving-hi.gif" >
+  
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantrivandrum&theme=<THEME_NAME>" /-->
 
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alantrivandrum&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />-->
