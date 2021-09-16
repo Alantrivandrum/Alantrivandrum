@@ -1,4 +1,4 @@
- ### Hi There    <img height= "30em" align="center" src="https://github.com/Alantrivandrum/Alantrivandrum/blob/main/waving-hi.gif" > 
+ ### Hi There    <img height= "30em" align="center" src="https://github.com/Alantrivandrum/Alantrivandrum/blob/main/283-2837537_a-smiling-minion-raises-one-hand-to-wave-hello-thomas-edison-gif.png" > 
  
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantrivandrum&theme=<THEME_NAME>" /-->
 
