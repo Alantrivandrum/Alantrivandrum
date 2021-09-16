@@ -1,4 +1,4 @@
-### Hi there <img align="center" src="https://github.com/Alantrivandrum/Alantrivandrum/blob/main/waving-hi.gif" >
+### Hi there <img height= "10em" align="center" src="https://github.com/Alantrivandrum/Alantrivandrum/blob/main/waving-hi.gif" >
   
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantrivandrum&theme=<THEME_NAME>" /-->
 
