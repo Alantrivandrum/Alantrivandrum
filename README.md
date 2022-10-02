@@ -1,5 +1,5 @@
  ### Hi There 👋
- I am in my penultimate year of an integrated masters programme at Trinity College Dublin.
+ I am in my final year of an integrated masters programme at Trinity College Dublin.
  <br />
 
 <!--src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantrivandrum&theme=<THEME_NAME>" /-->
