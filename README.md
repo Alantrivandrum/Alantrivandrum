@@ -1,6 +1,8 @@
  ### Hi There 👋
  I am in my final year of an integrated masters programme at Trinity College Dublin.
  <br />
+ - 🔭 I’m currently working on my dissertation project
+ - 🌱 I’m currently learning d3.js
 
 <!--src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantrivandrum&theme=<THEME_NAME>" /-->
 
@@ -12,8 +14,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
