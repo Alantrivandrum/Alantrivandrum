@@ -1,5 +1,5 @@
  ### Hi There 👋
- I am in my final year of an integrated masters programme at Trinity College Dublin.
+ I am a software engineer @ HubSpot
  <br />
  - 🔭 I’m currently tinkering with interesting projects
  - 🌱 Learning new things every day
