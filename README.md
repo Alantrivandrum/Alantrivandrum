@@ -1,5 +1,5 @@
  ### Hi There 👋
- I am a software engineer @ HubSpot
+ I am a software engineer 
  <br />
  - 🔭 I’m currently tinkering with interesting projects
  - 🌱 Learning new things every day
