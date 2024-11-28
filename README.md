@@ -1,5 +1,5 @@
  ### Hi There 👋
- I am a software engineer 
+ I am a software engineer @ General Motors
  <br />
  - 🔭 I’m currently tinkering with interesting projects
  - 🌱 Learning new things every day
